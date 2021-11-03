@@ -1,19 +1,44 @@
 
+
+
+
+
+
 <!---
 chry8822/chry8822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+  <br>
+  
+***
+ 
+ ***Hi, I’m Chrys*** <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+ 
+***
+  <br>
+  <br>
 
+ 🌱 I’m currently learning ... 
+  <br>
+  
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
 
- 
- <h1>Hi, I’m Chrys</h1>
- 
- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<br>
+  
+  I’m interested in ...
+  <br>
+  <br>
+  💪 working_out,:movie_camera: Movie,:red_car:  RC_car, 
+
+  <br>
+    <br>
+      <br>
+      
 
 
 
@@ -45,3 +70,6 @@ You can click the Preview link to take a look at your changes.
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchry8822&count_bg=%235BC442&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  </div>
+
+
+***
