@@ -9,14 +9,12 @@ chry8822/chry8822 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-  <br>
-  
 ***
  
  ***Hi, I’m Chrys*** <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
  
 ***
-  <br>
+
   <br>
 
  🌱 I’m currently learning ... 
@@ -37,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
   <br>
     <br>
-      <br>
+ 
       
 
 
