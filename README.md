@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-<a href="mailto:goggg8822@likelion.org">
+<a href="https://covelope.tistory.com/">
  <img src="https://img.shields.io/badge/-Tstory-131F37?style=flat-square&logo=-Tstory&logoColor=white"/></a> 
  
 <a href="mailto:goggg8822@likelion.org">
