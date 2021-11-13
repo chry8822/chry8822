@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   I’m interested in ...
   <br>
   <br>
-  💪 working_out,:movie_camera: Movie,:red_car:  RC_car, 
+  :computer: coding ,💪 working_out,:movie_camera: Movie,:red_car:  RC_car, 
 
   <br>
     <br>
