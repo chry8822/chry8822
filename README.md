@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:goggg8822@likelion.org">
  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> 
  
-<a href="https://www.instagram.com/chrysan_th">
+<a href="https://www.instagram.com/chrysan_th/">
 <img src="https://img.shields.io/badge/Instagram-007DC1?style=flat-square&logo=Instagram&logoColor=white"/></a> 
  </p>
 
