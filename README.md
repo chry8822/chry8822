@@ -10,6 +10,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ***
+  <br>
+    <br>
+
+<div align="center"> 
+ 
+![셀렉](https://user-images.githubusercontent.com/89508217/144148208-2ed211d3-907e-4e4e-a7f2-7fa8cb5ac6be.gif) 
+ 
+ </div>
+
+
+  <br>
+
+
+
+***
  
  ***Hi, I’m Chrys*** <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
  
