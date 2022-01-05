@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> 
  
-![셀렉](https://user-images.githubusercontent.com/89508217/144148208-2ed211d3-907e-4e4e-a7f2-7fa8cb5ac6be.gif) 
- 
+![버튼수정](https://user-images.githubusercontent.com/89508217/148152997-614ed24c-82a5-4cad-a41e-527e107ccc13.gif)
+
  </div>
 
 
