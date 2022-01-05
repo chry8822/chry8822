@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> 
  
-![버튼수정](https://user-images.githubusercontent.com/89508217/148152997-614ed24c-82a5-4cad-a41e-527e107ccc13.gif)
+![버튼수정1](https://user-images.githubusercontent.com/89508217/148153162-f600e663-d67b-4fff-92f9-36a9f399d1da.gif)
 
  </div>
 
